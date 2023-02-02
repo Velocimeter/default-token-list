@@ -57,14 +57,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
-      "name": "MATH Token",
-      "symbol": "MATH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/math.jpg"
-    },
-    {
-      "chainId": 42161,
       "address": "0x51fC0f6660482Ea73330E414eFd7808811a57Fa2",
       "name": "Premia",
       "symbol": "PREMIA",
@@ -81,43 +73,11 @@
     },
     {
       "chainId": 42161,
-      "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
-      "name": "SushiToken",
-      "symbol": "SUSHI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x955b9fe60a5b5093df9Dc4B1B18ec8e934e77162",
-      "name": "Swapr",
-      "symbol": "SWPR",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/swpr.jpg"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
-    },
-    {
-      "chainId": 42161,
       "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xcd14C3A2ba27819B352aae73414A26e2b366dC50",
-      "name": "dForce USD",
-      "symbol": "USX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usx.jpg"
     },
     {
       "chainId": 42161,
@@ -238,7 +198,7 @@
       "symbol": "FXS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
-    }
+    },
     {
       "address": "0xb96B904ba83DdEeCE47CAADa8B40EE6936D92091",
       "chainId": 42161,
@@ -246,8 +206,40 @@
       "symbol": "CRE8R",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/22568/small/cropped-FINALwithbrick-2-1-1.png?1642060468"
+    },
+    {
+      "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+      "chainId": 42161,
+      "name": "Frax Staked ETH",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://frax.imgix.net/tokens/frxeth.png"
+    },
+    {
+      "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+      "chainId": 42161,
+      "name": "Lido Wrapped Staked ETH",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/small/wstETH.png?1633565443"
+    },
+    {
+      "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+      "chainId": 42161,
+      "name": "Rocketpool Staked ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20764/small/reth.png?1637652366"
+    },
+    {
+     "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+      "chainId": 42161,
+      "name": "Hundred Finance",
+      "symbol": "HND",
+      "decimals": 18,
+      "logoURI": "https://github.com/hundred-finance/hundred-interface/blob/main/public/logo200.png"
+    }    
 
-    }
 
   ]
   
